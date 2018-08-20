@@ -4,10 +4,7 @@ print("Muestra de ejemplo")
 
 
 # To take kilometers from the user, uncomment the code below
-
-"""
-Este es mi comentario para la nieva rama creada desde consola
-"""
+# esta es la rama de german barrientos mora
 
 # conversion factor
 conv_fac = 0.621371
@@ -19,8 +16,7 @@ conv_fac = 0.621371
 miles = kilometers * conv_fac
 print('%0.3f kilometers is equal to %0.3f miles' %(kilometers,miles))
 
+"""
+	Mi comentario externo desde python
 #esto es un comentario
 """
-Esto es un comentario
-"""
-#ultimo cambio 14:38
